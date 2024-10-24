@@ -44,7 +44,7 @@ This Spring Boot application demonstrates how to securely mask Personally Identi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prashistha/PII-Masking.git
    cd PII-Masking
    ```
 
